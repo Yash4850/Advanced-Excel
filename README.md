@@ -1,2 +1,2 @@
-# R & Advanced-Excel
-Excel projects with power pivots, graphs
+# R & Excel projects 
+R & Excel projects with power pivots, graphs
